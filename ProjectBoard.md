@@ -7,6 +7,8 @@ The team plans on working in an agile way, focused on Kanban with agile ceremoni
 ### Grooming
 The entire group collaborates on what to do next, so that the backlog grooming provides valuable input to subsequent Sprint Planning. 
 
+At this point the cards are given actionable tasks and acceptance criteria with a user story.
+
 ### Sprint Planning
 Determine which stories should be targeted for completion in the upcoming sprint by adding them to a sprint backlog list. 
 
